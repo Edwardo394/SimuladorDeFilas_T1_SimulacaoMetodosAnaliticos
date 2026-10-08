@@ -1,0 +1,2 @@
+# SimuladorDeFilas_T1_SimulacaoMetodosAnaliticos
+T1_2026
